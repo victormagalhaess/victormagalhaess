@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 My name is Victor, I'm a software developer from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Belo Horizonte, Brazil</b> <br/>
 I'm mainly interested in backend technologies and best practices. 👨🏻‍💻
 
