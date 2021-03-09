@@ -6,7 +6,7 @@ I'm mainly interested in backend technologies and best practices. 👨🏻‍�
 
 - 🌱 I’m currently learning about React, E2E testing and microsservices!
 - 📚 I'm an undergraduate in Information Systems at <a href="ufmg.br" target="_blank"> UFMG (Universidade Federal de Minas Gerais) </a>
-- 🔭 I’m currently working on my personal page! You can check the work in progress <a href="victordias.dev" target="_blank">here</a>!
+- 🔭 I’m currently working on my personal page! You can check the work in progress <a href="https://victordias.dev" target="_blank">here</a>!
 - 💬 Feel free to ask me about anything that you want, I'm open to help with problems and learn something new anytime!
 - 🗣 I speak <b>Portuguese</b> <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> and <b>English</b> <img src="https://www.svgrepo.com/show/110211/united-kingdom.svg" width="13"/>
 - 😄 Pronouns: He/Him :)
