@@ -8,8 +8,8 @@ I'm mainly interested in backend technologies and best practices. 👨🏻‍�
 
 - 🌱 I’m currently learning about Golang, E2E testing and microsservices!
 - 📚 I'm an undergrad student in Information Systems at <a href="https://www.ufmg.br" target="_blank"> UFMG (Universidade Federal de Minas Gerais) </a>
-- 👨🏻‍💻 I'm a Software Engineer @ <a href="https://www.olx.com.br" targe="_blank"> Olx Brasil </a>
-- 🔭 I’m currently working on my personal page! You can check the work in progress <a href="https://victordias.dev" target="_blank">here</a>!
+- 👨🏻‍💻 I'm a Software Engineer @ <a href="https://www.useorigin.com/" targe="_blank"> Origin Financial </a>
+- 🔭 I’m was working on my personal page! It's on hold now, but you can check the work in progress <a href="https://victordias.dev" target="_blank">here</a>!
 - 💬 Feel free to ask me about anything that you want, I'm open to help with problems and learn something new anytime!
 - 🗣 I speak <b>Portuguese</b> <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" width="16"/> and <b>English</b> <img src="https://www.svgrepo.com/show/110211/united-kingdom.svg" width="13"/>
 - 😄 Pronouns: He/Him :)
