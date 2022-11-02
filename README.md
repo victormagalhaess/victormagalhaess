@@ -1,5 +1,5 @@
 ### Hi there! 👋
-My name is Victor, I'm a software developer from <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" width="16"/> <b>Belo Horizonte, Brazil</b> <br/>
+My name is Victor, I'm a 22 years old software developer from <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" width="16"/> <b>Belo Horizonte, Brazil</b> <br/>
 I'm mainly interested in backend technologies and best practices. 👨🏻‍💻
 
 
