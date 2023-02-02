@@ -3,7 +3,9 @@ My name is Victor, I'm a 22 years old software developer from <img src="https://
 I'm mainly interested in backend technologies and best practices. 👨🏻‍💻
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=victormagalhaess&theme=nightowl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=victormagalhaess&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
 <br/>  
 
 - 🌱 I’m currently learning about Golang and .NET!
