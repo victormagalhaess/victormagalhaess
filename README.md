@@ -66,6 +66,7 @@ I'm mainly interested in backend technologies and best practices. 👨🏻‍�
 
 
 <div align="center">
+    <p>This number is unique! You're my dear visitor of number:</p>
 <img src="https://komarev.com/ghpvc/?username=victormagalhaess&&style=flat-square" align="center" />
 </div>  
 <br/>
