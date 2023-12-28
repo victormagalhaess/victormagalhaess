@@ -9,7 +9,7 @@ I'm mainly interested in backend technologies and best practices. 👨🏻‍�
 <br/>  
 
 - 🌱 I’m currently learning about Golang and .NET!
-- 📚 I'm an undergrad student in Information Systems at <a href="https://www.ufmg.br" target="_blank"> UFMG (Universidade Federal de Minas Gerais) </a>
+- 📚 I'm a bachelor in Information Systems by <a href="https://www.ufmg.br" target="_blank"> UFMG (Universidade Federal de Minas Gerais) </a>
 - 👨🏻‍💻 I'm a Software Engineer @ <a href="https://www.useorigin.com/" target="_blank"> Origin Financial </a>
 - 🔭 I was working on my personal page! It's on hold now (and a bit outdated), but you can check the work in progress <a href="https://victordias.dev" target="_blank">here</a>!
 - 💬 Feel free to ask me about anything that you want, I'm open to help with problems and learn something new anytime!
